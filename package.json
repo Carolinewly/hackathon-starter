@@ -68,7 +68,7 @@
     "passport-oauth": "^1.0.0",
     "passport-oauth2-refresh": "^2.2.0",
     "passport-snapchat": "^1.0.0",
-    "passport-steam-openid": "^1.0.2",
+    "passport-steam-openid": "^1.1.7",
     "patch-package": "^8.0.0",
     "paypal-rest-sdk": "^1.8.1",
     "pug": "^3.0.2",
